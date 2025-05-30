@@ -88,6 +88,7 @@ body {
 
 .dice-number {
   margin-top: 17px;
+  font-family: "Comic Neue", sans-serif;
   font-size: 2.2rem;
   font-weight: 700;
   color: #f39f04;
@@ -99,8 +100,9 @@ body {
 .btn-roll {
   background: linear-gradient(135deg, #ffcc70, #ff9f45);
   color: #181a20;
-  font-weight: bold;
-  font-size: 1rem;
+  font-family: "Comic Neue", sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
   padding: 14px 32px;
   border: none;
   margin-top: 8%;
