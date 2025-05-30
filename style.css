@@ -7,7 +7,7 @@
 body {
   background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
   color: #f0f0f0;
-  font-family: "Segoe UI", sans-serif;
+  font-family: "Comic Neue", sans-serif;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ body {
 
 .main-heading {
   font-size: 1.8rem;
-  font-weight: bold;
+  font-weight: 700;
   color: #f39f04;
   letter-spacing: 1px;
   margin-bottom: 10%;
